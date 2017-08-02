@@ -103,7 +103,6 @@
 		6D86A9A81BEBDC7C00E3DD5A = {
 			isa = PBXGroup;
 			children = (
-				771FC4881F32228D00E0994C /* Localizable.strings */,
 				6D86A9B31BEBDC7D00E3DD5A /* Products */,
 				6D86A9B41BEBDC7D00E3DD5A /* Source */,
 				6D86A9C01BEBDC7D00E3DD5A /* Tests */,
@@ -122,6 +121,7 @@
 		6D86A9B41BEBDC7D00E3DD5A /* Source */ = {
 			isa = PBXGroup;
 			children = (
+				771FC4881F32228D00E0994C /* Localizable.strings */,
 				6DF9C2B01C8F4F30000710C1 /* PermissionTypes */,
 				6DF9C2C21C8F53C3000710C1 /* Supporting Files */,
 				6D86A9CC1BEBDC9000E3DD5A /* Permission.swift */,
@@ -349,6 +349,7 @@
 				771FC4891F32229A00E0994C /* de */,
 			);
 			name = Localizable.strings;
+			path = ..;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
